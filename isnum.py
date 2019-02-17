@@ -1,6 +1,6 @@
 #nikithat
 x=str(input())
-if(x.isnumeric==x):
+if(x.isnumeric()):
     print("yes")
 else:
     print("no")
