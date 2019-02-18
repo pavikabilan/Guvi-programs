@@ -1,3 +1,4 @@
+#nikitha
 x=str(input())
 count=0
 for i in x:
