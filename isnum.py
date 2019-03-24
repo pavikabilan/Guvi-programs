@@ -1,4 +1,4 @@
-#nikithat
+#pavithra
 x=str(input())
 if(x.isnumeric()):
     print("yes")
